@@ -9,7 +9,8 @@ import (
 	"time"
 )
 
-const sdkKey = "78e171de-fd0f-433b-862a-2fe5db69318e"
+//the api key goes below
+const sdkKey = ""
 
 const featureFlagKey = "Dark_Mode"
 
